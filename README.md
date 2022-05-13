@@ -1,4 +1,4 @@
-# Javascript_T-rk-e_Kaynak
+# Javascript_Turkce_Kaynak
 
 Javascript çalışmak isteyenler için terimlerin ne işe yaradığını rahatça görebilecekleri bir kaynak <br/>
 
